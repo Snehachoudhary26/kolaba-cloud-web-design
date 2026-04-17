@@ -3,7 +3,7 @@
 
 ### AI & Cloud Solutions for Modern Manufacturing
 
-> **Kolaba Cloud** is a modern, responsive landing page showcasing enterprise-grade AI and cloud solutions for the manufacturing industry. Built with pure HTML5, CSS3, and JavaScript, it features interactive data visualizations, smooth animations, and a professional black-and-orange design. The platform highlights four core services: AI-powered predictive maintenance, seamless cloud integration, Industrial IoT monitoring, and advanced data analytics. With dynamic charts, case study presentations, and mobile-optimized layouts, it demonstrates how manufacturers can leverage intelligent automation and real-time insights to transform operations, reduce downtime, and drive digital innovation across automotive, heavy machinery, and process manufacturing sectors.,
+> **Kolaba Cloud** is a modern, responsive landing page showcasing enterprise-grade AI and cloud solutions for the manufacturing industry. Built with pure HTML5, CSS3, and JavaScript, it features interactive data visualizations, smooth animations, and a professional black-and-orange design. The platform highlights four core services: AI-powered predictive maintenance, seamless cloud integration, Industrial IoT monitoring, and advanced data analytics. With dynamic charts, case study presentations, and mobile-optimized layouts, it demonstrates how manufacturers can leverage intelligent automation and real-time insights to transform operations, reduce downtime, and drive digital innovation across automotive, heavy machinery, and process manufacturing sectors.
 
 <div align="center">
 
